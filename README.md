@@ -1,10 +1,10 @@
-***As a data analyst, I aim to develop a comprehensive HR dashboard that offers both summarized insights and detailed employee records for effective data analysis.
+### As a data analyst, I aim to develop a comprehensive HR dashboard that offers both summarized insights and detailed employee records for effective data analysis.
 
-* Summary View
+# Summary View
 
 - The summary view will be structured into three main sections: Overview, Demographics, and Income Analysis.
 
-** Overview
+## Overview
 
 - Provide a snapshot of key HR metrics:
 - Display total number of hired employees, active employees, and terminated employees.
@@ -13,7 +13,7 @@
 - Compare employee distribution between headquarters (HQ) and branches (New York as HQ).
 - Show geographical distribution of employees by city and state.
   
-** Demographics
+## Demographics
 
 - Offer insights into workforce composition:
 - Present gender distribution across the company.
@@ -21,8 +21,8 @@
 - Display total count of employees within each age group and educational attainment level.
 - Analyze correlation between employees' educational backgrounds and performance ratings.
   
-* Income Analysis
-** Focus on salary-related metrics:
+# Income Analysis
+## Focus on salary-related metrics:
 - Compare salaries across different education levels and genders to identify patterns.
 - Analyze relationship between age and salary within each department.
   
