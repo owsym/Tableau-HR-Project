@@ -1,4 +1,4 @@
-*** As a data analyst, I aim to develop a comprehensive HR dashboard that offers both summarized insights and detailed employee records for effective data analysis.
+***As a data analyst, I aim to develop a comprehensive HR dashboard that offers both summarized insights and detailed employee records for effective data analysis.
 
 * Summary View
 
