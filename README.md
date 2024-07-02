@@ -21,7 +21,7 @@
 - Display total count of employees within each age group and educational attainment level.
 - Analyze correlation between employees' educational backgrounds and performance ratings.
   
-# Income Analysis
+## Income Analysis
 ## Focus on salary-related metrics:
 - Compare salaries across different education levels and genders to identify patterns.
 - Analyze relationship between age and salary within each department.
